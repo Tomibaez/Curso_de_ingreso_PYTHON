@@ -8,7 +8,7 @@
   </tbody>
 </table>
 
-## Curso de ingreso con Python 
+## Curso de ingreso con Python - Baez Tomas Valenrin
 
 ### Ejercitación y Trabajos Pr&aacute;cticos para rendir el examen de ingreso.
 ## **Carrera: T&eacute;cnico superior en programación**
